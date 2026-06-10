@@ -49,21 +49,13 @@ https://github.com/Daniel-Wu-1/JTnote/releases
 
 ## 截图
 
-建议在仓库中添加以下截图：
+![图片描述](Snipaste_2026-06-10_14-08-46.png)
 
-```text
-docs/images/main-window.png
-docs/images/compact-window.png
-docs/images/format-menu.png
-docs/images/settings.png
-```
+![图片描述](Snipaste_2026-06-10_14-09-17.png)
 
-建议再添加一个 10 秒左右的 GIF，展示完整使用流程：
+![图片描述](Snipaste_2026-06-10_14-10-00.png)
 
-1. 通过快捷键或鼠标中键呼出小窗。
-2. 输入一条笔记。
-3. 失去焦点后自动保存并关闭。
-4. 打开主窗口，看到笔记已经同步出现。
+![图片描述](Snipaste_2026-06-10_14-09-46.png)
 
 ## 主要功能
 
