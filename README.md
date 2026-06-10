@@ -446,34 +446,6 @@ JTnote_0.1.0_x64_en-US.msi
 - Tauri Dialog plugin
 - Tauri Autostart plugin
 
-## 获取更多用户的建议
-
-如果你想推广 JTnote，建议先补齐 GitHub 展示：
-
-- README 首屏截图
-- 10 秒演示 GIF
-- 清晰的 Release 下载说明
-- Windows SmartScreen 说明
-- 本地数据和隐私说明
-- 完整导入导出说明
-
-适合发布的渠道：
-
-- V2EX 分享创造
-- 小众软件
-- 少数派
-- 知乎
-- B 站短视频
-- Product Hunt
-- Hacker News Show HN
-- Reddit `r/windows`、`r/productivity`、`r/opensource`
-
-推荐标题：
-
-```text
-我做了一个 Windows 本地快速笔记工具：鼠标中键呼出小窗，自动保存，数据全在本机
-```
-
 ## 反馈
 
 欢迎通过 GitHub Issues 反馈问题或建议：
@@ -492,4 +464,9 @@ https://github.com/Daniel-Wu-1/JTnote/issues
 
 ## License
 
-当前仓库还没有包含 License 文件。正式鼓励复用、分发或社区贡献前，建议添加明确开源许可证。
+## 开源协议
+
+JTnote 使用 MIT License 开源。
+
+你可以自由使用、修改、分发、二次开发或用于商业用途，也欢迎提交 Issue、Pull Request 或参与社区贡献。  
+使用或分发本项目时，请保留原始版权声明和许可证文本。
